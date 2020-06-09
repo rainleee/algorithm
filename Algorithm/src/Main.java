@@ -38,6 +38,8 @@ class Main {
 		check = new int[9]; // n과 m의 최대범위
 		list = new int [9];
 		dfs(0);
+		
+		
 	}
 }
 	
