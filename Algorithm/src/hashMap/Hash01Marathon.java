@@ -1,7 +1,8 @@
+package hashMap;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Marathon {
+public class Hash01Marathon {
 	
 	public static String solution(String[] participant, String[] completion) {
 		String answer = "";
